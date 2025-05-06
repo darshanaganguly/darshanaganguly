@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darshanaganguly
-- 👀 I’m interested in java and python
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on projects related to AWS and python
+- 👀 I’m interested in data, java and python
+- 🌱 I’m currently on a learning spree.
+- 💞️ I’m looking to collaborate on projects related to data, AWS and python
 - 📫 Reach me at darshanaganguly@gmail.com
 
 <!---
